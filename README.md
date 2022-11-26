@@ -1,4 +1,4 @@
-<h1 align="center">Hello, dear guest! <img src="https://github.com/MarkPolitiko/IllsAndGifs/blob/main/giphy.webp" height="80"/></h1>
+<h1 align="center">Hello, dear guest! <img src="https://github.com/MarkPolitiko/IllsAndGifs/blob/main/giphy.gif" height="40"/></h1>
 
 ### My priorities
 + 💧 Clean code
@@ -19,5 +19,5 @@
 ![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ### My contacts
-## 📧 Email: politikomark@yandex.ru
-## 🌐 Telegram: @mpolitiko
+#### 📧 Email: politikomark@yandex.ru
+#### 🌐 Telegram: @mpolitiko
