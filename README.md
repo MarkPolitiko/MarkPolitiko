@@ -18,6 +18,11 @@
 ![FIGMA](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
+## My activity
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarkPolitiko&theme=moonlight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MarkPolitiko&theme=moonlight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MarkPolitiko&theme=moonlight)
+
 ## My contacts
 ### 📧 Email: politikomark@yandex.ru
 ### 🌐 Telegram: @mpolitiko
